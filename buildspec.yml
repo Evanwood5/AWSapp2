@@ -15,5 +15,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: dist/awsapp/browser
+  base-directory: dist/awsapp2/browser
   discard-paths: no
